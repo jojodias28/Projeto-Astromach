@@ -22,7 +22,7 @@ Para  realização deste projeto foram utilizados:
 ㅤ
 ### Um botão que limpe todos os matchs.
 -Mostrar botão de dellete em qualquer uma das páginas.
--Quando clicar no botão dellete deve ser apagado todos os matchs.
+-Quando clicar no botão dellete apagar todos os matchs.
 
 ## [Acesse o site aqui](https://racial-police.surge.sh/)
 
