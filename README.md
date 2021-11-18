@@ -2,7 +2,7 @@
 By Joana Dias
 
 ## Objetivo do Projeto
-A proposta foi criar um site parecido com o tinder, onde onde o usuário da like e deslike em pessoas que ele curtir.
+A proposta foi criar um site parecido com o tinder, onde o usuário pode da like e deslike em pessoas que ele curtir.
 Para  realização deste projeto foram utilizados:
 * Requisições de API's,
 * Componentes funcionais,
